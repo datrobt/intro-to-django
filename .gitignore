@@ -14,4 +14,4 @@ __pycache__
 .idea/
 .vscode/
 
-dj_test/
+#dj_test/
